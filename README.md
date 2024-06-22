@@ -17,12 +17,12 @@ This will guide you through the process of installing and configuring SFML for u
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Shreyas9699/2D_Ray_Casting.git
-    cd 2D_Ray_Casting
+    cd BeginCPP
     ```
 
 2. **Open the project in Visual Studio**:
-    - Navigate to the `2D_Ray_Casting` directory.
-    - Double-click on `2D_Ray_Casting.sln` to open the project in Visual Studio.
+    - Navigate to the `BeginCPP` directory.
+    - Double-click on `BeginCPP.sln` to open the project in Visual Studio.
 
 ### Running the Application
 
